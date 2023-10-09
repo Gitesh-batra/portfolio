@@ -4,7 +4,7 @@ import React from 'react';
 const Experiences = () => {
     return (
       <div class="experience">
-        <h1>Experiencs</h1>
+        <h1>Experiences</h1>
       <h2> Founder's office Intern at School of SDR</h2>
       <h3>June - Oct 2023</h3>
       <p>Intern at School of SDR, an online school for sales development reps.
