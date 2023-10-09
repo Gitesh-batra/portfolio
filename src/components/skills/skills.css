@@ -1,0 +1,29 @@
+.__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(253, 198, 198, 0);
+    border: 2px solid red;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.__brand div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.__brand div img {
+   
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
